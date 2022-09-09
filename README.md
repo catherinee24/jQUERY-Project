@@ -39,8 +39,8 @@
 Clone this Repo
 
 ```
-git clone https://github.com/gab0071/jQuery-poject
-cd jQuery-poject
+git clone https://github.com/catherinee24/jQUERY-Project.git
+cd jQUERY-Project
 ```
 
 Then install dependencies
